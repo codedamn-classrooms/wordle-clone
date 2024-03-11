@@ -15331,7 +15331,7 @@ function showAlert(message, duration = 1000) {}
 function shakeTiles(tiles) {}
 
 // Function to check the win or lose condition based on the user's guess - checkWinLose()
-function checkWinLose(guess, tiles) {}
+
 
 // Function to animate tiles by adding and removing the 'dance' class - danceTiles()
 function danceTiles(tiles) {}
