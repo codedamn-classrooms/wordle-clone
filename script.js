@@ -15335,3 +15335,33 @@ function checkWinLose(guess, tiles) {}
 
 // Function to animate tiles by adding and removing the 'dance' class - danceTiles()
 function danceTiles(tiles) {}
+
+
+/******************************************
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * DO NOT CHANGE ANY CODE BELOW THIS
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ **********************************************/
+
+
+window.WORD_LENGTH = WORD_LENGTH;
+window.FLIP_ANIMATION_DURATION = FLIP_ANIMATION_DURATION;
+window.DANCE_ANIMATION_DURATION = DANCE_ANIMATION_DURATION;
+window.offsetFromDate = offsetFromDate;
+window.msOffset = msOffset;
+window.dayOffset = dayOffset;
+window.targetWord = targetWord;
+window.keyboard = document.querySelector("[data-keyboard]");
+window.alertContainer = document.querySelector("[data-alert-container]");
+window.guessGrid = document.querySelector("[data-guess-grid]");
